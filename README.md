@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-
-- 🌱 I’m currently learning Software QA
+- 💬 I'm currently working on my Github
+- 🌱 I’m currently learning Software QA, Javascript
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
