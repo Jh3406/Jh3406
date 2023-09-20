@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
   ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
+![Static Badge](https://img.shields.io/badge/Java)
+
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![go](https://img.shields.io/static/v1?logo=go&label=&message=golang&color=36465D&logoColor=AAA&style=flat-square)
 ![ruby](https://img.shields.io/static/v1?logo=ruby&label=&message=ruby&color=36465D&logoColor=AAA&style=flat-square)
