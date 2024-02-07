@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   ![Pytest](https://img.shields.io/badge/-Pytest-563D7C?style=flat-square&logo=Pytest)
   ![Robot framework](https://img.shields.io/badge/-robotframework-563D7C?style=flat-square&logo=robotframework)
   ![Jira](https://img.shields.io/badge/-Jira-563D7C?style=flat-square&logo=Jira)
-
+  ![Appium](https://img.shields.io/badge/-Appium-563D7C?style=flat-square&logo=Appium)  
 
 
 
